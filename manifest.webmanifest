@@ -1,7 +1,8 @@
 {
   "name": "말씀노트 - 설교 동반 앱",
   "short_name": "말씀노트",
-  "start_url": "/",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#f5f7f9",
   "theme_color": "#173d67",
